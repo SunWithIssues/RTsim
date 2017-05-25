@@ -7,9 +7,9 @@ The program's scenario is missile detection; if the missile hits the city or mis
 As of now, the city has an area of 100; the missile has an area of 10201 (0 is counted within the command, random.randint).
 
 WANTED ADDS/CHANGES:
-  The missile area is super large (imo) - shrink it
-  Add missile power - a nuke has more range than a pistol
-  Evacuation procedures
+  The missile area is super large (imo) - shrink it.
+  Add missile power - a nuke has more range than a pistol.
+  Evacuation procedures.
 
 
 Link to Essay: http://what-when-how.com/Tutorial/topic-424vv9g/Hard-Real-Time-Computing-Systems-Predictable-Scheduling-Algorithms-and-Applications-18.html
